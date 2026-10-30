@@ -9,6 +9,14 @@ window.GAMES = [
     art: { a: '#0f3d1e', b: '#3aa65a', c: '#d8f5a2', icon: 'tree' }
   },
   {
+    id: 'deadweight', name: 'Dead Weight', url: 'https://deadweight-ozan.onrender.com',
+    genre: 'Action', multiplayer: true, players: '1v1', added: '2026-10-31', popularity: 80,
+    tagline: 'Survive. Outlast. Carry the weight.',
+    description: 'Jump into Dead Weight and take on a friend in a 1v1 showdown.',
+    features: ['Play online with a friend', 'Quick 1v1 matches'],
+    art: { a: '#3d0f12', b: '#c0392b', c: '#ffb36b', icon: 'bolt' }
+  },
+  {
     id: 'shardfall', name: 'Shardfall', url: '', comingSoon: true,
     genre: 'Fighting', multiplayer: true, players: '1v1', added: '2026-10-30', popularity: 60,
     tagline: 'Pick your fighter. Shatter your rival.',
