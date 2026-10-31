@@ -17,11 +17,11 @@ window.GAMES = [
     art: { a: '#3d0f12', b: '#c0392b', c: '#ffb36b', icon: 'bolt' }
   },
   {
-    id: 'shardfall', name: 'Shardfall', url: 'https://shardfall-khwm.onrender.com',
-    genre: 'Fighting', multiplayer: true, players: '1v1 online or 2 players', added: '2026-10-31', popularity: 90,
-    tagline: 'Knock your rival off the floating arena.',
-    description: 'A fast platform fighter with 20 fighters like Volt, Brute, Nyx, Ember and Frost. Higher damage sends rivals flying farther, and you can smash crates, barrels and cars. Play the story, climb the ranked ladder, fight Boss Ozan, or take on a friend online.',
-    features: ['Online 1v1: host a room and send your friend the code', 'Story mode with 10 chapters', 'Ranked ladder and Boss Ozan', 'Local 2-player, training and CPU modes'],
+    id: 'shardfall', name: 'Shardfall', url: '', comingSoon: true,
+    genre: 'Fighting', multiplayer: true, players: '1v1', added: '2026-10-30', popularity: 60,
+    tagline: 'Pick your fighter. Shatter your rival.',
+    description: 'A fast 2D fighting game with Volt, Brute, Nyx and more. Online 1v1 matches are coming soon.',
+    features: ['1v1 online matches (coming soon)', 'Multiple fighters with unique moves'],
     art: { a: '#2a0f4d', b: '#7a3cff', c: '#ffd36b', icon: 'bolt' }
   }
 ];
