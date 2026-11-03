@@ -17,6 +17,14 @@ window.GAMES = [
     art: { a: '#3d0f12', b: '#c0392b', c: '#ffb36b', icon: 'bolt' }
   },
   {
+    id: 'ashenvigil', name: 'Ashen Vigil', url: 'https://ashen-vigil-cr88.onrender.com',
+    genre: 'Action', multiplayer: false, players: 'Single-player', added: '2026-11-01', popularity: 75,
+    tagline: 'Cpt. Chuck takes on the sins of hell.',
+    description: 'Fight through a burning hell as Cpt. Chuck, face the sin bosses and see what waits at the end of the vigil.',
+    features: ['Play as Cpt. Chuck', 'Battle the sin bosses', 'Story cutscenes'],
+    art: { a: '#3a0a06', b: '#e0451a', c: '#ffd36b', icon: 'bolt' }
+  },
+  {
     id: 'crystalclash', name: 'Crystal Clash', url: 'https://crystal-clash.onrender.com',
     genre: 'Strategy', multiplayer: true, players: '1v1 online or vs AI', added: '2026-10-31', popularity: 85,
     tagline: 'Drop troops, shatter the crystal king.',
